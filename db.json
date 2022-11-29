@@ -1,0 +1,11 @@
+{
+    "companies": [
+        { "title": "Company_B", "demo_status": false, "id": 1 },
+    { "title": "Company_C", "demo_status": true, "id": 2 },
+    { "title": "Company_D", "demo_status": false, "id": 3 },
+    { "title": "Company_E", "demo_status": false, "id": 4 },
+    { "title": "Company_A_Demo", "demo_status": true, "id": 5 },
+    { "title": "Company_F", "demo_status": false, "id": 6 },
+    { "title": "Company_G_Demo", "demo_status": true, "id": 7 }
+    ]
+}
