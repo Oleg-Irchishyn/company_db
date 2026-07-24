@@ -1,2 +1,2 @@
-# company_db
+# projects_db
 fake json api
