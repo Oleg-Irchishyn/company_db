@@ -1,0 +1,15 @@
+{
+  "name": "projects_db",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shared json-server database for old React projects (React_Quiz, ReactJS_ToDo_List, ...), deployed as a live API.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
