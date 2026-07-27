@@ -189,5 +189,269 @@
     { "id": 6, "hex": "#C355F5", "name": "purple" },
     { "id": 7, "hex": "#110133", "name": "black" },
     { "id": 8, "hex": "#FF6464", "name": "red" }
+  ],
+  "pizzasEng": [
+    {
+      "id": 0,
+      "imageUrl": "/assets/pizzas/pizza-0.jpg",
+      "name": "Peperoni fresh with pepper",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 803,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "/assets/pizzas/pizza-1.jpg",
+      "name": "Cheese",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 245,
+      "category": 2,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "/assets/pizzas/pizza-2.jpg",
+      "name": "BBQ Chiken",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 295,
+      "category": 2,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "/assets/pizzas/pizza-3.jpg",
+      "name": "Sour-sweet chicken",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 275,
+      "category": 1,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "/assets/pizzas/pizza-4.jpg",
+      "name": "Cheeseburger-pizza",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 415,
+      "category": 1,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "/assets/pizzas/pizza-5.jpg",
+      "name": "Crazy peperoni",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 580,
+      "category": 3,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "/assets/pizzas/pizza-6.jpg",
+      "name": "Peperoni",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 675,
+      "category": 3,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "/assets/pizzas/pizza-7.jpg",
+      "name": "Margarita",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 450,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "/assets/pizzas/pizza-8.jpg",
+      "name": "Four seasons",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 395,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "/assets/pizzas/pizza-9.jpg",
+      "name": "Vegetables and mushrooms 🌱",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 285,
+      "category": 4,
+      "rating": 7
+    },
+    {
+      "id": 10,
+      "imageUrl": "/assets/pizzas/pizza-10.jpg",
+      "name": "Oceano",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 285,
+      "category": 3,
+      "rating": 7
+    },
+    {
+      "id": 11,
+      "imageUrl": "/assets/pizzas/pizza-11.jpg",
+      "name": "Godfather",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 285,
+      "category": 2,
+      "rating": 7
+    },
+    {
+      "id": 12,
+      "imageUrl": "/assets/pizzas/pizza-12.jpg",
+      "name": "Old Blues",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 285,
+      "category": 4,
+      "rating": 7
+    }
+  ],
+  "pizzasUkr": [
+    {
+      "id": 0,
+      "imageUrl": "/assets/pizzas/pizza-0.jpg",
+      "name": "Пепероні фреш із перцем",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 803,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "/assets/pizzas/pizza-1.jpg",
+      "name": "Сирна",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 245,
+      "category": 2,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "/assets/pizzas/pizza-2.jpg",
+      "name": "Курча барбекю",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 295,
+      "category": 2,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "/assets/pizzas/pizza-3.jpg",
+      "name": "Кисло-солодке курча",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 275,
+      "category": 1,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "/assets/pizzas/pizza-4.jpg",
+      "name": "Чізбургер-піца",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 415,
+      "category": 1,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "/assets/pizzas/pizza-5.jpg",
+      "name": "Скажене пепероні",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 580,
+      "category": 3,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "/assets/pizzas/pizza-6.jpg",
+      "name": "Пепероні",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 675,
+      "category": 3,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "/assets/pizzas/pizza-7.jpg",
+      "name": "Маргарита",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 450,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "/assets/pizzas/pizza-8.jpg",
+      "name": "Чотири сезони",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 395,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "/assets/pizzas/pizza-9.jpg",
+      "name": "Овочі та гриби 🌱",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 285,
+      "category": 4,
+      "rating": 7
+    },
+    {
+      "id": 10,
+      "imageUrl": "/assets/pizzas/pizza-10.jpg",
+      "name": "Ошеано",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 285,
+      "category": 3,
+      "rating": 7
+    },
+    {
+      "id": 11,
+      "imageUrl": "/assets/pizzas/pizza-11.jpg",
+      "name": "Годфазер",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 285,
+      "category": 2,
+      "rating": 7
+    },
+    {
+      "id": 12,
+      "imageUrl": "/assets/pizzas/pizza-12.jpg",
+      "name": "Старий Блюз",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 285,
+      "category": 4,
+      "rating": 7
+    }
   ]
 }
